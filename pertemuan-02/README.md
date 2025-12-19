@@ -9,4 +9,5 @@ belajar:
     <li>emet untuk struktur html5</li>
     <li>emet untuk header+main+footer</li>
     <li>emet untuk header yaitu h1+nav>ul>li*3>a</li>
+    <li>emet untuk section*2>h2+p di main</li>
 </ol>
