@@ -10,4 +10,5 @@ hari ini selasa,23.des.2025 belajar:
     <li>mengisi section contact dengan emet abbreviation</li>
     <li>melengkapi atribut form</li>
     <li>styling section #about</li>
+    <li>styling section #about untuk tag h2</li>
 </ol>
