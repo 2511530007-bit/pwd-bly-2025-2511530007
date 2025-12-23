@@ -11,4 +11,6 @@ hari ini selasa,23.des.2025 belajar:
     <li>melengkapi atribut form</li>
     <li>styling section #about</li>
     <li>styling section #about untuk tag h2</li>
+    <li>styling section #about untuk tag p</li>
+    <li>styling section #about untuk tag strong</li>
 </ol>
