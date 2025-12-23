@@ -4,7 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>judul halaman</title>
+    <style>
+      #about {
+        background-color: #ffff;
+        border-radius: 10%;
+        padding: 20px;
+        max-width: 700px;
+        margin: 20px auto;
+
+        box-shadow: 0 2px 5px rgba(0, 0, 0.1);
+      }
+    </style>
 </head>
+
 <body>
     <header>
         <h1>ini header</h1>
@@ -36,7 +48,19 @@
     </section>
     <section id="contact">
    <h2>kontak kami</h2>
-    <p>contoh form</p>
+    <form action="" method="POST">
+        <label for="txtnama">nama:</label>
+        <input name="txtnama" id="txtnama" requited placeholder="putri melati" type="text">
+
+        <label for="txtemail">Email:</label>
+        <input name="txtemail" id="txtemail" requited placeholder="2511530007@mahasiswa.atmaluhur.ac.id" type="text">
+
+        <label for="txtpesan">pesan:</label>
+        <textarea name="txtpesan" id="txtpesan" requited placeholder="apa aja"></textarea>
+
+        <button type="submit">kirim</button>
+        <button type="reset">batal</button>
+    </form>
     </section>
 </main>
 <footer>

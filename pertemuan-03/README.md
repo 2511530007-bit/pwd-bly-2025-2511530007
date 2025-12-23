@@ -7,4 +7,6 @@ hari ini selasa,23.des.2025 belajar:
 <ol>
     <li>copy index.html dari pertemuan-02 ke pertemuan-03</li>
     <li>mengisi section about</li>
+    <li>mengisi section contact dengan emet abbreviation</li>
+    <li>melengkapi atribut form</li>
 </ol>
