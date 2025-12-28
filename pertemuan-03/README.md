@@ -17,4 +17,5 @@ hari ini selasa,23.des.2025 belajar:
     <li>styling section #about untuk tag strong</li>
     <li>styling section #contact</li>
     <li>styling section #contact groups selector</li>
+    <li>styling section #contact groups selector h2</li>
 </ol>
