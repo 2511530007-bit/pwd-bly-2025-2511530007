@@ -18,7 +18,6 @@ hari ini selasa,23.des.2025 belajar:
     <li>styling section #contact</li>
     <li>styling section #contact groups selector</li>
     <li>styling section #contact groups selector h2</li>
-    <li>styling section #contact styling label</li>
     <li>styling section #contact styling label>span</li>
     <li>styling section #contact styling input dan textarea</li>
     <li>styling section #contact styling tombol</li>
@@ -29,4 +28,5 @@ hari ini selasa,23.des.2025 belajar:
     <li>styling section #contact styling label dan label>span</li>
     <li>styling section #contact input,textarea,button</li>
     <li>styling section #contact upgrade struktur form</li>
+    <li>styling section #contact styling label</li>
 </ol>
