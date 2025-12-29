@@ -28,5 +28,5 @@ hari ini selasa,23.des.2025 belajar:
     <li>styling section #contact styling label dan label>span</li>
     <li>styling section #contact input,textarea,button</li>
     <li>styling section #contact upgrade struktur form</li>
-    <li>styling section #contact styling label</li>
+    <li>update readme.md pertemuan-03</li>
 </ol>
