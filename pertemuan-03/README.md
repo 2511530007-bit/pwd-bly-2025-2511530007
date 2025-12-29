@@ -29,4 +29,5 @@ hari ini selasa,23.des.2025 belajar:
     <li>update readme pertemuan-03</li>
     <li>styling section #contact styling label</li>
     <li>update readme.md pertemuan-03</li>
+    <li>update readme.md pertemuan-03</li>
 </ol>
