@@ -32,4 +32,5 @@ hari ini selasa,23.des.2025 belajar:
     <li>update readme.md pertemuan-03</li>
     <li>styling section #contact styling label>span</li>
     <li>update styling section #contact styling input dan textarea</li>
+    <li>styling section #contact styling input dan textarea</li>
 </ol>
