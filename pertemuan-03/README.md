@@ -26,5 +26,5 @@ hari ini selasa,23.des.2025 belajar:
     <li>styling section #contact styling warna tombol</li>
     <li>styling section #contact styling hover tombol</li>
     <li>styling section #contact styling hover  tombol</li>
-    
+    <li>styling section #contact styling label dan label>span</li>
 </ol>
