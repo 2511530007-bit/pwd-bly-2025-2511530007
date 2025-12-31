@@ -6,4 +6,5 @@
     <li>class menu-toggle mobile</li>
     <li>styling nav menu mobile</li>
     <li>membuat script.js</li>
+    <li>validasi formulir sebelum submit</li>
 </ol>
