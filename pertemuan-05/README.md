@@ -7,4 +7,5 @@
     <li>styling nav menu mobile</li>
     <li>membuat script.js</li>
     <li>validasi formulir sebelum submit</li>
+    <li>ganti text tombol saat menu aktif</li>
 </ol>
