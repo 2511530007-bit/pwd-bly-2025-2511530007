@@ -100,3 +100,10 @@ window.addEventListener("resize", () => {
         if (target) alignErrorMessage (smaLL, target);
     });
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+    const homeSection = document.getElementById("home");
+    const ucapan = document.createElement("p");
+    ucapan.textContent = "Halo! Selamat datang dihalaman saya!";
+    homeSection.appendChild(ucapan);
+});

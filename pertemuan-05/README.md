@@ -8,4 +8,5 @@
     <li>membuat script.js</li>
     <li>validasi formulir sebelum submit</li>
     <li>ganti text tombol saat menu aktif</li>
+    <li>ucapan otomatis saat halaman dimuat</li>
 </ol>
