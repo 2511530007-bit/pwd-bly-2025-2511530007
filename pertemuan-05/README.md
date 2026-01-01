@@ -9,4 +9,5 @@
     <li>validasi formulir sebelum submit</li>
     <li>ganti text tombol saat menu aktif</li>
     <li>ucapan otomatis saat halaman dimuat</li>
+    <li>latihan hitung jumlah karakter pesan</li>
 </ol>
