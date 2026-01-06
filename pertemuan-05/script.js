@@ -107,7 +107,6 @@ document.addEventListener("DOMContentLoaded", function () {
     ucapan.textContent = "Halo! Selamat datang dihalaman saya!";
     homeSection.appendChild(ucapan);
 });
-
 document.getElementById("txtpesan").addEventListener("input", function () {
     const panjang = this.value.length;
     document.getElementById("charCount").textContent = panjang + "/200 karakter";
@@ -196,5 +195,4 @@ document.addEventListener("DOMContentLoaded", function () {
     setupCharCountLayout();
 
     window.addEventListener('resize', applyResponsiveLayout);
-
 });
