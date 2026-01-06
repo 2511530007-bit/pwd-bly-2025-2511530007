@@ -195,4 +195,5 @@ document.addEventListener("DOMContentLoaded", function () {
     setupCharCountLayout();
 
     window.addEventListener('resize', applyResponsiveLayout);
+    
 });
