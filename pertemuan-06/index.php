@@ -15,7 +15,7 @@
     <title>judul halaman</title>
     <style>
       #about {
-        background-color: #5660b4;
+        background-color: #f4f5f7;
         border-radius: 10%;
         padding: 20px;
         max-width: 700px;
@@ -24,7 +24,7 @@
       }
 
       #contact {
-        background-color:#5660b4;
+        background-color:black;
         border-radius: 10%;
         padding: 20px;
         max-width: 700px;
@@ -34,7 +34,7 @@
 
       #about,
       #contact {
-        background-color: #5660b4;
+        background-color: #90c7fd;
         border-radius: 10%;
         padding: 20px;
         max-width: 700px;
@@ -44,8 +44,8 @@
 
       #about h2,
       #contact h2{
-        color:#959bd1 ;
-        border-bottom: 2px solid #a7aeee;
+        color:black ;
+        border-bottom: 2px solid #12131a;
         padding-bottom: 6px;
         margin-top: 0;
         margin-bottom: 16px;
@@ -64,31 +64,31 @@
       }
 
       #contact button[type="submit"] {
-        background-color: bisque;
-        color: #5660b4;
+        background-color: #d1d2d4;
+        color: #131316;
         font-weight: 600;
       }
 
       #contact button [type="reset"] {
-        background-color: aliceblue;
-        color: beige;
+        background-color: white;
+        color: black;
         font-weight: 500;
       }
 
       #contact button [type="submit"] :hover {
-        background-color: #037903ee;
+        background-color: #e5ece5ee;
         transform: translateY(-1px);
         box-shadow: 0 2px 6px rgba(0, 0, 0.1);
       }
 
       #contact button [type="reset"] :hover {
-        background-color: #cccccc;
+        background-color: #f7f6f6;
         transform: translateY(-1px);
       }
 
       #about h2 {
-        color: #959bd1;
-        border-bottom: 2px solid #a7aeee;
+        color: rgba(9, 10, 14);
+        border-bottom: 2px solid #050607;
         padding-bottom: 6px;
         margin-top: 0;
         margin-bottom: 16px;
@@ -100,12 +100,12 @@
         align-items: baseline;
         margin: 0;
         padding: 6px 0;
-        border-bottom: 1px solid #a7aeee;
+        border-bottom: 1px solid #050507;
       }
 
       #about strong {
         min-width: 180px;
-        color:aliceblue;
+        color:black;
         font-weight: 600;
         text-align: right;
         padding-right: 16px;
@@ -129,7 +129,7 @@
       #about strong,
       #contact label>span {
         min-width: 180px;
-        color: beige;
+        color: black;
         font-weight: 600;
         text-align: right;
         padding-right: 16px;
@@ -139,7 +139,7 @@
        #contact input,
       #contact textarea {
         flex: 1;
-        border: 1px solid #ccc;
+        border: 1px solid #1a1111;
         border-radius: 6px;
         padding: 8px;
         color: #000;
@@ -197,18 +197,28 @@
       <?php
         $NIM = "2511530007";
         $nim = "2511530007";
+        $nim = "";
+        $NamaLengkap = "Putri Melati";
+        $TempatLahir = "Belinyu";
+        $TanggalLahir = "19 Juni 2007";
+        $Hobi = "Berolahraga";
+        $Pasangan = "Belum Ada";
+        $Pekerjaan = "Belum Bekerja";
+        $NamaOrangTua = "Bpk Jasmin dan Ibu sudiana";
+        $NamaKakak = "-";
+        $NamaAdik = "-";
       ?>
         <h2>tentang aku</h2>
         <p><strong>NIM:</strong> <?php echo $NIM ?></p>
-        <p><strong>nama lengkap:</strong> putri melati</p>
-        <p><strong>tempat lahir:</strong> belinyu</p>
-        <p><strong>tanggal lahir:</strong> 19 juni 2007</p>
-        <p><strong>hobi:</strong> berolahraga</p>
-        <p><strong>pasangan:</strong> belum ada</p>
-        <p><strong>pekerjaan:</strong> belum bekerja</p>
-        <p><strong>nama orang tua:</strong> bpk Jasmin dan Ibu sudiana</p>
-        <p><strong>anak ke:</strong>pertama</p>  
-        <p><strong>dari berapa saudara</strong>anak tunggal</p>  
+        <p><strong>Nama Lengkap:</strong> <?php echo $NamaLengkap ?></p>
+        <p><strong>Tempat Lahir:</strong> <?php echo $TempatLahir ?></p>
+        <p><strong>Tanggal Lahir:</strong> <?php echo $TanggalLahir ?></p>
+        <p><strong>Hobi:</strong> <?php echo $Hobi ?></p>
+        <p><strong>Pasangan:</strong> <?php echo $Pasangan ?></p>
+        <p><strong>Pekerjaan:</strong> <?php echo $Pekerjaan ?></p>
+        <p><strong>Nama Orang Tua:</strong> <?php echo $NamaOrangTua ?></p>
+        <p><strong>Nama Kakak:</strong><?php echo $NamaKakak ?></p>  
+        <p><strong>Nama Adik:</strong><?php echo $NamaAdik ?></p>  
         </p>
     </section>
     <section id="contact">

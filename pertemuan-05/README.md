@@ -10,8 +10,8 @@ Nama: Putri Melati<br>
     <li>class menu-toggle mobile</li>
     <li>styling nav menu mobile</li>
     <li>membuat script.js</li>
-    <li>validasi formulir sebelum submit</li>
-    <li>ganti text tombol saat menu aktif</li>
-    <li>ucapan otomatis saat halaman dimuat</li>
-    <li>latihan hitung jumlah karakter pesan</li>
+    <li>script.js validasi formulir sebelum submit</li>
+    <li>script.js ganti text tombol saat menu aktif</li>
+    <li>script.js ucapan otomatis saat halaman dimuat</li>
+    <li>script.js latihan hitung jumlah karakter pesan</li>
 </ol>
