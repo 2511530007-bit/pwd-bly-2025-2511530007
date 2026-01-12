@@ -188,7 +188,11 @@
     <section id="home">
         <h2>selamat datang</h2>
         <p>hallo aku putri melati</p>
+        <?php
+        echo "hallo dunia!"
+        ?>
     </section>
+    
     <section id="about">
         <h2>tentang aku</h2>
         <p><strong>NIM:</strong> 2511530007</p>
