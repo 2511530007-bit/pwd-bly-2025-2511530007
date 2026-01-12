@@ -194,8 +194,12 @@
     </section>
     
     <section id="about">
+      <?php
+        $NIM = "2511530007";
+        $nim = "2511530007";
+      ?>
         <h2>tentang aku</h2>
-        <p><strong>NIM:</strong> 2511530007</p>
+        <p><strong>NIM:</strong> <?php echo $NIM ?></p>
         <p><strong>nama lengkap:</strong> putri melati</p>
         <p><strong>tempat lahir:</strong> belinyu</p>
         <p><strong>tanggal lahir:</strong> 19 juni 2007</p>
