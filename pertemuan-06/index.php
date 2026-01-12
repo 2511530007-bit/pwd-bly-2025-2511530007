@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>judul halaman</title>
-    <link rel="stylesheet" href="style.css"
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <!DOCTYPE html>
@@ -225,10 +225,10 @@
   <h2>kontak kami</h2>
   <form action="" method="GET">
     <label for="txtnama"><span>Nama:</span>
-      <input type="text" id="txtNama" name="txtNama" placeholder="Masukan nama" required autocomplete="name"
+      <input type="text" id="txtNama" name="txtNama" placeholder="Masukan nama" required autocomplete="name">
     </label> 
     <label for="txtemail"><span>Email:</span>
-      <input type="email" id="txtemail" name="txtemail" placeholder="Masukan Email" required autocomplete="email"
+      <input type="email" id="txtemail" name="txtemail" placeholder="Masukan Email" required autocomplete="email">
     </label>
     <label for="txtpesan"><span>pesan anda:</span>
       <textarea id="txtpesan" name="txtpesan" rows="4" placeholder="Tulis Pesan Anda..." required></textarea>
