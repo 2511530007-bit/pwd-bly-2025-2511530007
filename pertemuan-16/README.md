@@ -10,4 +10,5 @@ UAS:<br>
     <li>section #home</li>
     <li>membuat file fungsi.php</li>
     <li>membuat koneksi.php</li>
+    <li>variabel  php</li>
 </ol>
