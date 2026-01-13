@@ -7,4 +7,5 @@ NIM: 2511530007<br>
 UAS:<br>
 <ol>
     <li>membuat tabel biodata mahasiswa</li>
+    <li>section #home</li>
 </ol>
