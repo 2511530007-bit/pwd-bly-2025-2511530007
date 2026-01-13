@@ -11,5 +11,5 @@ UAS:<br>
     <li>membuat file fungsi.php</li>
     <li>membuat koneksi.php</li>
     <li>variabel  php</li>
-    <li>menambahkan dbpwd.sql</li>
+    <li>dbpwd_2025.sql</li>
 </ol>
