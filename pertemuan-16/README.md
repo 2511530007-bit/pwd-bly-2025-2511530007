@@ -9,4 +9,5 @@ UAS:<br>
     <li>membuat tabel biodata mahasiswa</li>
     <li>section #home</li>
     <li>membuat file fungsi.php</li>
+    <li>membuat koneksi.php</li>
 </ol>
