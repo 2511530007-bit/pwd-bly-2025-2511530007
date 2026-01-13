@@ -1,5 +1,3 @@
-# pertemuan-16
-
 <?php
 session_start();
 require_once __DIR__ . '/fungsi.php';
@@ -41,10 +39,10 @@ require_once __DIR__ . '/fungsi.php';
     </section>
 
     <section id="biodata">
-      <h2>Biodata Mahasiswa</h2>
+      <h2>Biodata Pengunjung</h2>
       <form action="proses.php" method="POST">
 
-        <label for="txtKodePen"><span>NIM:</span>
+        <label for="txtKodePen"><span>Kode Pengunjung:</span>
           <input type="text" id="txtKodePen" name="txtKodePen" placeholder="Masukkan Kode Pengunjung" required>
         </label>
 
@@ -172,7 +170,7 @@ require_once __DIR__ . '/fungsi.php';
   </main>
 
   <footer>
-    <p>&copy; Putri Melati [2511530007]</p>
+    <p>&copy; 2025 Yohanes Setiawan Japriadi [0344300002]</p>
   </footer>
 
   <script src="script.js"></script>
